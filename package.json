@@ -1,0 +1,19 @@
+{
+  "name": "poker",
+  "version": "1.0.0",
+  "description": "## ▶️ 룰",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suwonmanmani/indian-poker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suwonmanmani/indian-poker/issues"
+  },
+  "homepage": "https://github.com/suwonmanmani/indian-poker#readme"
+}
